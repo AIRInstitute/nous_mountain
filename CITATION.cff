@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this dataset or software, please cite it as below."
+title: "Mountain-Pass EV Energy: Digital-Twin Dataset and Federated Beacon Experiments"
+abstract: >-
+  A digital-twin dataset of electric-vehicle traversals of a mountain-road segment
+  (Puerto de la Quesera, GU-186), together with the federated-learning experiments that
+  build a connectivity-free mountain-pass beacon estimating the energy needed to cross
+  the pass. Prepared as the research artifact for a manuscript in preparation for
+  Open Research Europe (ORE).
+type: software
+version: "1.0.0"
+date-released: "2026-07-03"
+authors:
+  - family-names: "Cuevas"
+    given-names: "Emmanuel"
+  - family-names: "Mezquita Martín"
+    given-names: "Yeray"
+  - family-names: "Carrera González"
+    given-names: "Albano"
+  - family-names: "Valdeolmillos Villaverde"
+    given-names: "Diego"
+keywords:
+  - electric vehicles
+  - digital twin
+  - federated learning
+  - energy estimation
+  - mountain pass
+  - CARLA
+  - Flower
+# --- DOI ------------------------------------------------------------------
+# After reserving the DOI on Zenodo, uncomment the line below and paste the
+# CONCEPT DOI (the "all versions" one, which always resolves to the latest
+# release). Keep it as the concept DOI so this file never goes stale.
+# doi: "10.5281/zenodo.XXXXXXXX"

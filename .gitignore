@@ -1,3 +1,6 @@
+# macOS
+.DS_Store
+
 # Python environments
 .venv/
 venv/
@@ -8,12 +11,11 @@ __pycache__/
 *.py[cod]
 
 # Experiment outputs
-outputs/*
-!outputs/.gitkeep
-outputs_extended/
-mountain_pass_flower_experiments/outputs/*
-!mountain_pass_flower_experiments/outputs/.gitkeep
-mountain_pass_flower_experiments/outputs_extended/
+federated_experiments/outputs/*
+!federated_experiments/outputs/.gitkeep
+federated_experiments/outputs_extended/
+federated_experiments/outputs_quick/
+federated_experiments/outputs_extended_quick/
 
 # Build metadata
 *.egg-info/
