@@ -120,7 +120,7 @@ carla_mountain/
 
 If you use the `Mountain` map in academic work, please cite both this package and the upstream paper:
 
-> Vidal Cuevas, J. E., Mezquita Martín, Y., Valdeolmillos, D., & Carrera González, A. (2026). *nous_mountain_carla: a CARLA 0.9.16 digital twin of the Puerto de la Quesera mountain pass* [Software]. GitHub. https://github.com/AIRInstitute/nous_mountain_fl/tree/main/carla
+> Vidal Cuevas, J. E., Mezquita Martín, Y., Valdeolmillos, D., & Carrera González, A. (2026). *nous_mountain_carla: a CARLA 0.9.16 digital twin of the Puerto de la Quesera mountain pass* [Software]. GitHub. https://github.com/AIRInstitute/nous_mountain_fl/tree/main/carla_mountain
 
 > Vidal Cuevas, J. E., Mezquita Martín, Y., Valdeolmillos, D., & Carrera González, A. (2026). *Beacon-assisted range-risk estimation for electric vehicles in low-coverage mountain roads: a digital-twin study on the Puerto de la Quesera* [Manuscript in preparation].
 
