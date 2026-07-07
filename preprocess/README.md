@@ -2,7 +2,7 @@
 
 **MATLAB App Designer tool that converts a GeoTIFF Digital Elevation Model (DEM) and an OpenStreetMap road Shapefile into a RoadRunner HD Map (`.rrhd`) with real terrain elevation fused into the road geometry — not draped as a flat mesh underneath it.**
 
-This tool is the geospatial-preprocessing stage of a digital-twin pipeline built jointly by the **AIR Institute** (Salamanca, Spain) and the **Universidad Politécnica de Pachuca / CITNOVA** (Hidalgo, Mexico), for a research project on EV range-risk estimation on low-coverage mountain roads. Its output feeds directly into the CARLA map bundle in [`nous_mountain_carla`](https://github.com/AIRInstitute/nous_mountain_carla), which packages the same case study — the **Puerto de la Quesera** pass (Sistema Central, GU-186 road, Spain) — for simulation.
+This tool is the geospatial-preprocessing stage of a digital-twin pipeline built jointly by the **AIR Institute** (Salamanca, Spain) and the **Universidad Politécnica de Pachuca / CITNOVA** (Hidalgo, Mexico), for a research project on EV range-risk estimation on low-coverage mountain roads. Its output feeds directly into the CARLA map bundle in [`carla_mountain`](https://github.com/AIRInstitute/nous_mountain_fl/tree/main/carla_mountain), which packages the same case study — the **Puerto de la Quesera** pass (Sistema Central, GU-186 road, Spain) — for simulation.
 
 A scientific manuscript describing the full methodology is in preparation for *Open Research Europe*.
 
