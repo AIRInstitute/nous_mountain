@@ -62,13 +62,13 @@ For the Puerto de la Quesera case study, the tile used spans DEM bounding box lo
 
 ## 6. From `.rrhd` to a CARLA package
 
-Once you have a `.rrhd`, three more steps (documented in full in [`nous_mountain_carla`](https://github.com/AIRInstitute/nous_mountain_carla)) turn it into a CARLA-importable map:
+Once you have a `.rrhd`, three more steps (documented in full in [`carla_mountain`](https://github.com/AIRInstitute/nous_mountain_fl/tree/main/carla_mountain)) turn it into a CARLA-importable map:
 
 1. **RoadRunner finalization + CARLA Filmbox export**, producing a `.fbx` mesh, a `.xodr` OpenDRIVE network, and a `.rrdata.xml` metadata file.
 2. **UE4 import**, from a *source-built* CARLA workspace: drop the `.fbx + .xodr + .rrdata.xml` set into `Unreal/CarlaUE4/Content/Carla/ExportedMaps/` and run `make import`.
 3. **Packaging**: `make package ARGS="--packages=Mountain"` produces a deployable `.tar.gz` that any precompiled CARLA 0.9.16 installation can ingest via `ImportAssets`.
 
-Full instructions, including CARLA server configuration (`config.py -m Mountain --delta-seconds 0.05`), live in the [`nous_mountain_carla/SETUP.md`](https://github.com/AIRInstitute/nous_mountain_carla/blob/main/SETUP.md) guide.
+Full instructions, including CARLA server configuration (`config.py -m Mountain --delta-seconds 0.05`), live in the [`carla_mountain/SETUP.md`](https://github.com/AIRInstitute/nous_mountain_fl/blob/main/carla_mountain/SETUP.md) guide.
 
 ## 7. Known limitations and roadmap
 
