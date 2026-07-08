@@ -114,7 +114,7 @@ carla_mountain/
 └── CITATION.cff
 ```
 
-`Mountain_0.9.16.zip` (288 MB) is **not** part of this tree — it's distributed via the [Digital-Twin ORE](https://drive.google.com/drive/folders/1LiuKO9zR1adKe38_wBr-CXa-3FNJfNlo?usp=drive_link) Google Drive folder, since it exceeds the plain-git file size limit.
+`Mountain_0.9.16.zip` (288 MB) is **not** part of this tree — it's distributed via the [Digital-Twin ORE](https://drive.google.com/drive/folders/1-sQKS117Wj-J6C-D6ptcXz5CtvUCtwj-?usp=sharing) Google Drive folder, since it exceeds the plain-git file size limit.
 
 ## 8. Citing this package
 
