@@ -51,7 +51,7 @@ nous_mountain_fl/
     └── examples/                # 01_check_elevation.py
 ```
 > The `Mountain_0.9.16.zip` CARLA import bundle (288 MB) is **not** stored in this repository —
-> it's distributed via the [Digital-Twin ORE Google Drive folder](https://drive.google.com/drive/folders/1LiuKO9zR1adKe38_wBr-CXa-3FNJfNlo?usp=drive_link),
+> it's distributed via the [Digital-Twin ORE Google Drive folder](https://drive.google.com/drive/folders/1-sQKS117Wj-J6C-D6ptcXz5CtvUCtwj-?usp=sharing),
 > linked from [`carla_mountain/README.md`](carla_mountain/README.md).
 
 ### How the layout maps to the paper's *Data and Software Availability*
