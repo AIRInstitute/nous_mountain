@@ -133,7 +133,6 @@ If you use this dataset or code, please cite the archived artifact (and, once av
 accompanying manuscript). Machine-readable metadata is in [`CITATION.cff`](CITATION.cff).
 
 - **Concept DOI (always resolves to the latest version):** [`10.5281/zenodo.21159398`](https://doi.org/10.5281/zenodo.21159398)
-- **This version (v1.0.0):** [`10.5281/zenodo.21159399`](https://doi.org/10.5281/zenodo.21159399)
 
 Cite the concept DOI unless you need to point to a specific release.
 
