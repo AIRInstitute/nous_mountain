@@ -8,8 +8,8 @@ abstract: >-
   the pass. Prepared as the research artifact for a manuscript in preparation for
   Open Research Europe (ORE).
 type: software
-version: "1.1.0"
-date-released: "2026-07-08"
+version: "1.2.0"
+date-released: "2026-07-21"
 repository-code: "https://github.com/AIRInstitute/nous_mountain"
 # Dual-licensed artifact:
 #   MIT      — all software (federated_experiments/, digital_twin/, preprocess/,
@@ -40,9 +40,8 @@ keywords:
   - mountain pass
   - CARLA
   - Flower
-# Version DOI for this specific release (v1.1.0). The top-level `doi` above is
-# the concept DOI, which always resolves to the latest version.
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.21267619"
-    description: "Version DOI for v1.1.0"
+# The top-level `doi` above is the concept DOI, which always resolves to the
+# latest version. The version-specific DOI for v1.2.0 is minted by Zenodo when
+# the GitHub release is published; add it here once available.
+# Previous version DOIs: v1.0.0 -> 10.5281/zenodo.21159399,
+#                        v1.1.0 -> 10.5281/zenodo.21267619.
